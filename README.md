@@ -6,7 +6,9 @@ Em desenvolvimento.
 ## Tecnologias
 - HTML 
 - CSS
-- JS 
+- JS
+- JAVA
+- SQL
 
 ## Time
 Feito de coração por Daniel Godinho.
@@ -15,6 +17,6 @@ Feito de coração por Daniel Godinho.
 Este projeto é uma solução para reservas de quartos em modelos de negócio no ramo de hospedagens.
 
 ## Funcionalidades do sistema
-- Autenticação
+- Tipos diferentes de quartos
+- Checar disponibilidade de reserva
 - Registrar reserva
-- Ver reservas

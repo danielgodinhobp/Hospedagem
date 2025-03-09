@@ -1,0 +1,45 @@
+.principal {
+    background-color: #f8f9fa;
+    padding: 4rem 0;
+}
+
+.icones {
+    font-size: 2rem;
+    color: orange;
+}
+
+.cartao-quarto {
+    border: 1px solid #dee2e6;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    height: auto; 
+    overflow: hidden;
+}
+
+.imagem-quarto {
+    width: 100%;
+    height: 100%;
+    background-color: #f8f9fa;
+    margin-bottom: 1rem;
+}
+
+.imagem-quarto img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.formulario {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 8px;
+}
+
+.texto-destaque {
+    font-weight: bold;
+}
+
+.espacamento-inferior {
+    margin-bottom: 1rem;
+}
